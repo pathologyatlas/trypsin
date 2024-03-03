@@ -6,7 +6,7 @@
 
 
 
-
+```yaml
 - stainname: trypsin-trypsin
   reponame: trypsin
   titleTR: trypsin immünohistokimya
@@ -40,7 +40,7 @@
   github: https:///github.com/pathologyatlas/trypsin
   githubpage: https://pathologyatlas.github.io/trypsin
   youtube: https://www.youtube.com/watch?v=youtube_link
-
+```
 
 
 
