@@ -11,35 +11,33 @@
   reponame: trypsin
   titleTR: trypsin immünohistokimya
   titleEN: trypsin immunohistochemistry
-  organ: ''
-  speciality: ''
+  organ: pancreas
+  speciality: pancreatobiliary
   type: published
   author:
   - Serdar Balci
   - Memorial Patoloji
-  date: ''
+  date: '2024-03-02'
   url: https://images.patolojiatlasi.com/trypsin/trypsin.html
   note: ''
   categoriesTR:
-  - ''
-  - ''
-  - ''
+  - teknik
+  - immünohistokimya
   - patoloji
   - atlas
   - histopatoloji
   - whole slide image
   categoriesEN:
-  - ''
-  - ''
-  - ''
+  - technique
+  - immunohistochemistry
   - pathology
   - atlas
-  - histopatholohy
+  - histopathology
   - whole slide image
   screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_trypsin-trypsin.png
   github: https:///github.com/pathologyatlas/trypsin
   githubpage: https://pathologyatlas.github.io/trypsin
-  youtube: https://www.youtube.com/watch?v=youtube_link
+  youtube: ''
 ```
 
 
