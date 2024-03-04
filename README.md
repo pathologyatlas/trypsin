@@ -42,19 +42,25 @@
 
 
 
+[https://images.patolojiatlasi.com/trypsin/](https://images.patolojiatlasi.com/trypsin/)
+
 
 [https://images.patolojiatlasi.com/trypsin/trypsin.html](https://images.patolojiatlasi.com/trypsin/trypsin.html)
 
 
 **trypsin immünohistokimya**
 
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/trypsin/trypsin.html)
 
-[![Tam Ekran Görmek İçin Resmi Tıklayın](https://www.patolojiatlasi.com/screenshots/thumbnail_trypsin-trypsin.png){width="25%"}](https://images.patolojiatlasi.com/trypsin/trypsin.html) [Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/trypsin/trypsin.html)
+<a href="https://images.patolojiatlasi.com/trypsin/trypsin.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_trypsin-trypsin.png" style="width:25%;"></a>
+
 
 
 **trypsin immunohistochemistry**
 
-[![Click for Full Screen WSI](https://www.patolojiatlasi.com/screenshots/thumbnail_trypsin-trypsin.png){width="25%"}](https://images.patolojiatlasi.com/trypsin/trypsin.html) [Click for Full Screen WSI](https://images.patolojiatlasi.com/trypsin/trypsin.html)
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/trypsin/trypsin.html)
+
+<a href="https://images.patolojiatlasi.com/trypsin/trypsin.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_trypsin-trypsin.png" style="width:25%;"></a>
 
 
 
@@ -73,7 +79,7 @@ See Microscopy with viewer:
 
 
 
-
+<hr>
 
 <a href="https://www.patolojiatlasi.com/"><img src ="https://www.patolojiatlasi.com/images/coverTR.png" style="width:50%;"></a>
 
